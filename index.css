@@ -1,0 +1,194 @@
+*{
+    background:rgba(252, 169, 169, 0.904)
+}
+#one
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+    
+}
+#two
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+}
+#three
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+}
+#four
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+}
+#five
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+}
+#six
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+}
+#seven
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+}
+#eight
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+}
+#nine
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+}
+#zero
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    border-color: crimson;
+}
+#divide
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+    background-color: rgb(241, 176, 55);
+    color: black;
+}
+#multiply
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+    background-color:rgb(226, 64, 226);
+    color: black;
+}
+#plus
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+    background-color:rgb(247, 247, 99);
+    color: black;
+}
+#minus
+{
+    position: relative;
+    color: black;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+    background-color: rgb(69, 212, 69);
+}
+#deci
+{   
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 2px;
+    text-align: center;
+    border-color: crimson;
+    justify-content: center;
+}
+#equal
+{
+    position: relative;
+    margin-bottom:2px;
+    font-size: 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    text-align: center;
+    background-color: crimson;
+}
+.screen {
+	height: 40px;
+	width: 150px;
+	float: bottom;
+	padding: 0 10px;
+	background: rgba(0, 0, 0, 0.2);
+	border-radius: 6px;
+	font-size: 17px;
+	line-height: 35px;
+	color: white;
+	text-align: right;
+}
+#Clear
+{
+    height: 40px;
+	width: 40px;
+    position: relative;
+    margin-bottom:2px;
+    font-size: 17px;
+    border-radius: 8px;
+    cursor: pointer;
+    text-align: center;
+    color: black;
+}
